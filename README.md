@@ -11,7 +11,7 @@ This file is the **Single Source of Truth** for all my released assets. All proj
 | Icon & Status | Meaning |
 | :---: | :--- |
 | **🟢** | The project is active and receives regular updates. |
-| **🟡** | Functional, but not actively being updated (temporarily). |
+| **🟡** | Functional, but not actively being updated. |
 | **🔴** | No longer supported and will not receive future updates. |
 
 ---
