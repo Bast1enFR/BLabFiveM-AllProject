@@ -1,6 +1,7 @@
 # 📦 All Projects & Real-Time Status
 
 This file is the **Single Source of Truth** for all my released assets. All project links are available here.
+
 ⚠️ This file will only contain CFX forum links, to ensure user safety. ⚠️
 
 ---
@@ -38,3 +39,13 @@ This file is the **Single Source of Truth** for all my released assets. All proj
 | Status | Project Name | Link | Update Status |
 | :---: | :--- | :---: | :---: |
 | **PAID** | The RoofTop – Map Upgrade | [CFX Forum Link](https://forum.cfx.re/t/paid-the-rooftop-map-upgrade/5348804) | **✅ Maintained** |
+
+---
+
+### Legend
+
+| Icon & Status | Meaning |
+| :---: | :--- |
+| **🟢 Maintained** | The project is active and receives regular updates. |
+| **🟡 On Hold** | Functional, but not actively being updated (temporarily). |
+| **🔴 Discontinued** | No longer supported and will not receive future updates. |
