@@ -4,7 +4,7 @@ This file is the **Single Source of Truth** for all my released assets. All proj
 
 ⚠️ This file will only contain CFX forum links, to ensure user safety. ⚠️
 
-[Discord BLabFiveM](https://discord.gg/VzdUQsmu46)
+Discord Support : [Discord BLabFiveM Link](https://discord.gg/VzdUQsmu46)
 
 ---
 
