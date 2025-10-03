@@ -13,6 +13,7 @@ This file is the **Single Source of Truth** for all my released assets. All proj
 | **🟢** | The project is active and receives regular updates. |
 | **🟡** | Functional, but not actively being updated. |
 | **🔴** | No longer supported and will not receive future updates. |
+| **⭐** | New Projet Available. |
 
 ---
 
@@ -21,7 +22,7 @@ This file is the **Single Source of Truth** for all my released assets. All proj
 | Status | Project Name | Link | Update Status |
 | :---: | :--- | :---: | :---: |
 | **FREE** | Summer Bag 2K23 | [CFX Forum Link](https://forum.cfx.re/t/free-summer-bag-2k23-add-ons/5185806) | **🟡** |
-| **FREE** | IceCream LSD Bag | [CFX Forum Link](https://forum.cfx.re/t/free-icecream-lsd-bag/5356614) | **🟡** |
+| **FREE** | IceCream LSD Bag | [CFX Forum Link](https://forum.cfx.re/t/free-icecream-lsd-bag/5356614) | **⭐** |
 | **FREE** | Cherry Swimsuit | [CFX Forum Link](https://forum.cfx.re/t/free-cherry-swimsuit-f/5202956) | **🟡** |
 | **PAID** | Black And White Top [M] | [CFX Forum Link](https://forum.cfx.re/t/paid-black-and-white-top-m/5202665) | **🟡** |
 | **PAID** | Pastel Bag [16 Colors] | [CFX Forum Link](https://forum.cfx.re/t/paid-pastel-bag-16-colors/5239500) | **🟡** |
